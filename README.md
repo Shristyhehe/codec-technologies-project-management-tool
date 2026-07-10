@@ -47,9 +47,6 @@ npm install
 npm start
 ```
 
-## 📸 Screenshot
-
-(Add your project screenshot here)
 
 ## 👩‍💻 Developed By
 
